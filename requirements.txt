@@ -122,7 +122,7 @@ python-dotenv==1.0.0
 pytrinamic==0.2.8
 pytweening==1.0.7
 pytz==2023.3.post1
-pywin32-ctypes==0.2.2
+pywin32-ctypes
 PyYAML==6.0.1
 pyzmq==25.1.2
 qt5-applications==5.15.2.2.3
