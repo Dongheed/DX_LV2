@@ -114,7 +114,7 @@ PyRect==0.2.0
 pyscreenshot==3.1
 PyScreeze==0.1.29
 pyserial==3.5
-PySide2==5.15.2.1
+PySide2==5.13.2
 PySide6==6.6.1
 python-can==3.3.4
 python-dateutil==2.8.2
