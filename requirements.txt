@@ -174,7 +174,6 @@ webcolors==1.13
 webencodings==0.5.1
 Werkzeug==2.3.6
 wheel==0.43.0
-windows-curses==2.3.2
 wrapt==1.16.0
 wxPython==4.2.1
 zipp==3.17.0
